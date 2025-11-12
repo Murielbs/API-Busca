@@ -11,8 +11,13 @@
   "dependencies": {
     "expo": "~54.0.23",
     "expo-status-bar": "~3.0.8",
+    "expo-location": "~15.1.0",
     "react": "19.1.0",
     "react-native": "0.81.5"
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@types/react": "~19.1.10",
+    "typescript": "~5.9.2"
+  }
 }
